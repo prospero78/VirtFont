@@ -1,2 +1,2 @@
 # VirtFont
-DLL for persistent storage font 0x0 dot. Write on PascalABC.Net
+DLL for persistent storage raster font 8x8 dot. Write on PascalABC.Net
