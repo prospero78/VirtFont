@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project FileVersion="2" Name="VirtFont" MainFile="VirtFont.pas" OutputFileName="VirtFont.dll" OutputDirectory="" ProjectType="Library" IncludeDebugInfo="True" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="True" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
+<Project FileVersion="2" Name="VirtFont" MainFile="VirtFont.pas" OutputFileName="VirtFont.dll" OutputDirectory="" ProjectType="Library" IncludeDebugInfo="True" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="False" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
   <Items>
     <Item Type="SourceFile" Name="VirtFont.pas" Path="VirtFont.pas" />
     <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
